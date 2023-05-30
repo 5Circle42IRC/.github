@@ -19,3 +19,9 @@
 ```
 [fix] #5 /api/endpoint의 잘못된 반환값 수정
 ```
+
+branch
+```bash
+$> switch [branch name] // 브랜치 옮겨다니기.
+$> switch -c [create branch name] // 브랜치 생성 명령
+```
